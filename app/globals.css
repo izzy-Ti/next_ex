@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+body{
+    padding: 1rem;
+}
